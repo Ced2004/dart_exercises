@@ -1,0 +1,13 @@
+=== NTC CAMPUS CAFE RECEIPT ===
+Customer Name: Maria Santos
+Items Ordered: 5 cup(s) of coffee at ₱45.5 each
+Subtotal: ₱227.50
+Loyalty Card Holder: true
+Discount Applied: ₱22.75
+Final Amount Due: ₱204.75
+----------------------------------
+Bonus Pastries Earned: 2
+Cups needed for next reward: 1
+Qualifies for Bulk Order Discount: true
+Is this a large transaction (>₱200)? true
+==================================
