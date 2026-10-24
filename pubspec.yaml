@@ -1,1 +1,4 @@
-Bongat: dart_exercises
+name: dart_exercises
+description: NTC PC16 Week 7 Dart Fundamentals Exercise.
+environment:
+  sdk: '>=3.0.0 <4.0.0'
